@@ -3,7 +3,7 @@
 🎓 Graduate student in Big Data Analytics at Georgian College  
 📍 Based in Collingwood, Ontario  
 📫 srikrishnathapa@outlook.com  
-🔗 [LinkedIn](https://linkedin.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tsrikrishna/)
 
 ---
 
@@ -31,7 +31,8 @@ _July 2024 – August 2024 (Group Project)_
 
 - Built an interactive dashboard showing live weather data for Toronto and Barrie.
 - Extracted weather data from a remote API and stored it in a PostgreSQL database hosted on Google Cloud.
-- Implemented a batch script to update the data every minute and built a web interface using Flask.  
+- Implemented a batch script to update the data every minute and built a web interface using Flask.
+- 🎥 [Video Demo](https://youtu.be/flVe0YSjzBo)  
 - 💻 [GitHub Repo](https://github.com/TSrikrishna/DataProgrammingFinalProject---weather_dashboard)
 
 ---
