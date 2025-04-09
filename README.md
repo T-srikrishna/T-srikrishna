@@ -2,7 +2,7 @@
 
 🎓 Graduate student in Big Data Analytics at Georgian College  
 📍 Based in Collingwood, Ontario  
-📫 srikrishnathapa@outlook.com  
+📫 srikrishnathapa912@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tsrikrishna/)
 
 ---
