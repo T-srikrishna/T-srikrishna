@@ -31,8 +31,7 @@ _July 2024 – August 2024 (Group Project)_
 
 - Built an interactive dashboard showing live weather data for Toronto and Barrie.
 - Extracted weather data from a remote API and stored it in a PostgreSQL database hosted on Google Cloud.
-- Implemented a batch script to update the data every minute and built a web interface using Flask.
-- 🎥 [Video Demo](https://youtu.be/flVe0YSjzBo)  
+- Implemented a batch script to update the data every minute and built a web interface using Flask. 
 - 💻 [GitHub Repo](https://github.com/TSrikrishna/DataProgrammingFinalProject---weather_dashboard)
 
 ---
